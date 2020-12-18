@@ -9,9 +9,19 @@ This theme's goindex is currently based on [yanzai/goindex](https://github.com/y
 
 [README](README.md) | [中文文档](README_zh.md)
 
+51Sec's change:
+
+API in the Cloudflare code :
+Change from api: "https://api.jsonpop.cn/demo/blplyaer/?url=",
+to : api: "https://sunpma.com/other/Player/?url=",
+
+"https://sunpma.com/other/Player/?url= " html5 online player does not support AVI. I am still trying to find a better html5 online player to replace this one. 
+
+
+
 ## Demo  
 
-Acrou: [https://oss.achirou.workers.dev/](https://oss.achirou.workers.dev/) 
+Acrou: [https://oss.achirou.workers.dev/](https://oss.achirou.workers.dev/)  - Does not work!!!
 
 ## Features
 
