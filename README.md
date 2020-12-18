@@ -15,6 +15,9 @@ API in the Cloudflare code :
 Change from api: "https://api.jsonpop.cn/demo/blplyaer/?url=",
 to : api: "https://sunpma.com/other/Player/?url=",
 
+Another api : https://player.server.ci/?url=
+
+
 "https://sunpma.com/other/Player/?url= " html5 online player does not support AVI. I am still trying to find a better html5 online player to replace this one. 
 
 
