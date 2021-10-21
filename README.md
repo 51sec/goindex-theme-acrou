@@ -1,10 +1,10 @@
-This repository is forked from Achrou/goindex-theme-acrou. To make it better serve for my requirements, I made some small changes so it can show some customized information. 
+This repository is forked from Achrou/goindex-theme-acrou. To make it better serve for my requirements, I made some small changes so it can show some customized information. Most of Readme.md content is coming from original author. If you would like to know more options for this project, please visit original author's repository. 
 
 
 # GoIndex-theme-acrou 
 Combining the power of [Cloudflare Workers](https://workers.cloudflare.com/) and [Google Drive](https://www.google.com/drive/) will allow you to index you files on the browser on Cloudflare Workers.    
 
-[go2index/index.js](https://github.com/Aicirou/goindex-theme-acrou/go2index) is the content of the Workers script.  
+[go2index/index.js](https://github.com/51sec/goindex-theme-acrou/go2index) is the content of the Workers script.  
 
 This theme's goindex is currently based on [yanzai/goindex](https://github.com/yanzai/goindex/)
 
