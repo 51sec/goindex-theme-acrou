@@ -17,6 +17,8 @@ This theme's goindex is currently based on [yanzai/goindex](https://github.com/y
 
 51sec: [https://gd.51sec.org/](https://gd.51sec.org/) 
 
+Collections : [https://chill.aicirou.workers.dev/](https://chill.aicirou.workers.dev/)
+
 ## Features
 
 - [x] 👑 Page-level caching,browser forward and backward without reloading (MAC users have a better experience with the trackpad)
